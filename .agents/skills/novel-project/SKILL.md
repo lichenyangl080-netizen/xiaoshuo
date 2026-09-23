@@ -21,6 +21,7 @@ description: 本小说项目的作者主导协作入口。用于讨论创意、�
 - 接续、保存决定与维护档案：读 [novel-memory](../novel-memory/SKILL.md)。
 - 检查逻辑、信息与前后状态：读 [novel-continuity](../novel-continuity/SKILL.md)。
 - 场景对白与人物声音：读 [novel-dialogue](../novel-dialogue/SKILL.md)。
+- 正文写作、精修、节奏与小说去 AI 味：读 [novel-prose](../novel-prose/SKILL.md)。
 - 拆书研究：读 [文本研究方法](references/research.md)。
 
 ## 构思与写作
